@@ -1,0 +1,4 @@
+node_modules/
+src_assets/
+node_modules
+npm-debug.log
